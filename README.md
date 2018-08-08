@@ -13,7 +13,7 @@ This application.
 Here are the technologies used in this project.
 
 * Ruby version  2.5.1
-* Ruby on Rails 5.2
+* Sinatra
 * Docker 
 * PostgreSql
 * Github
@@ -21,7 +21,14 @@ Here are the technologies used in this project.
 
 ## Ruby Gems
 
-* 
+* Sinatra
+* Activerecord
+* Sinatra-activerecord
+* pg
+* rake
+* tux
+* rack-test
+* rspec
 
 
 ## Features
@@ -40,7 +47,7 @@ Future features
 ## Links
 
 - Project homepage: 
-- Repository: https://github.com/karlysson/amigo_secreto
+- Repository: https://github.com/karlysson/chatbot
   - In case of sensitive bugs like security vulnerabilities, please contact
     karlysson.alves@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
@@ -50,13 +57,12 @@ Future features
 
 ## Contributing
 
-[![Code Triage Badge](https://www.codetriage.com/rails/rails/badges/users.svg)](https://www.codetriage.com/rails/rails)
-
-
 We encourage you to contribute with chatbot! Please follow the github and get started guidelines below. Join us!
 
 
 ## Getting Started
 
 
-1. docker-compose build
+1. At the command prompt run the command
+
+        $ docker-compse build 

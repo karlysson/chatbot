@@ -1,5 +1,5 @@
 
-![Logo of the project](https://raw.githubusercontent.com/karlysson/chatbot/master/app/assets/images/logo.ico)
+![Logo of the project](https://raw.githubusercontent.com/karlysson/chatbot/master/app/assets/images/logo.png)
 
 
 
